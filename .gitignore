@@ -1,0 +1,5 @@
+.DS_Store
+*.nova
+*.code-workspace
+*.sql
+organize/*
